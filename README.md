@@ -1,6 +1,6 @@
 # YelpCamp
 
-YelpCamp is a Full Stack NodeJs Web App Project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).  My version of YelpCamp has a few tweaks beyond what was coded in class.
+YelpCamp is a Full Stack NodeJs Web App Project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 
 Built with: NodeJS, ExpressJS, Heroku, MongoDB at mLab
 
